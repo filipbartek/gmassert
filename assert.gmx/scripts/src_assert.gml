@@ -1,4 +1,4 @@
-///assert(expression)
+///src_assert(expression)
 
 var expression = argument0;
 
